@@ -1,0 +1,2 @@
+# TBL-SMARTKARAOKE
+Phần mềm karaoke TBL SMART-K
